@@ -4,7 +4,7 @@ replicaCount: 3
 
 image:
   repository: yasindumalmith/amazon
-  tag: "13"
+  tag: "14"
   pullPolicy: IfNotPresent
 
 service:
